@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div id="icono-carrito" onclick="alternarCarrito()">
+            <span id="contador-carrito">0</span> 🛒
+        </div>
+    </header>
+    <main>
+        <section class="banner">
+            <h1>Papa's Louie</h1>
+            <img src="./img/papa-louie-welcome2.png" alt="">
+        </section>
+        <section id="lista-productos" class="lista-productos"></section>
+        <section id="carrito" class="carrito">
+            <h2>Carrito de Compras</h2>
+            <ul id="items-carrito"></ul>
+            <p class="total-price">Total: $<span id="precio-total">0</span></p>
+            <button id="finalizar-compra" onclick="finalizarCompra()">Finalizar Compra</button>
+        </section>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="./js/index.js"></script>
+</body>
+</html>
