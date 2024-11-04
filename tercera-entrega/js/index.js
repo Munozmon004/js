@@ -1,16 +1,16 @@
 const productos = [
     { id: 1, nombre: 'Sundae Dark Cherry Oreo', precio: 12, imagen: '../img/item-1.png' },
     { id: 2, nombre: 'Sundae Sweet Bluberry Crumble', precio: 12, imagen: '../img/item-2.webp' },
-    { id: 3, nombre: 'Sundae Sweet Bluberry Crumble', precio: 12, imagen: '../img/item-3.webp' },
-    { id: 4, nombre: 'Sundae Sweet Bluberry Crumble', precio: 12, imagen: '../img/item-4.webp' },
-    { id: 5, nombre: 'Sundae Sweet Bluberry Crumble', precio: 13, imagen: '../img/item-5.webp' },
-    { id: 6, nombre: 'Sundae Sweet Bluberry Crumble', precio: 13, imagen: '../img/item-6.webp' },
-    { id: 7, nombre: 'Sundae Sweet Bluberry Crumble', precio: 13, imagen: '../img/item-7.webp' },
-    { id: 8, nombre: 'Sundae Sweet Bluberry Crumble', precio: 15, imagen: '../img/item-8.webp' },
-    { id: 9, nombre: 'Sundae Sweet Bluberry Crumble', precio: 17, imagen: '../img/item-41.webp' },
-    { id: 10, nombre: 'Sundae Sweet Bluberry Crumble', precio: 20, imagen: '../img/item-42.webp' },
-    { id: 11, nombre: 'Sundae Sweet Bluberry Crumble', precio: 20, imagen: '../img/item-43.webp' },
-    { id: 12, nombre: 'Sundae Sweet Bluberry Crumble', precio: 20, imagen: '../img/item-44.webp' }
+    { id: 3, nombre: 'Sundae Snickers Crunchy', precio: 12, imagen: '../img/item-3.webp' },
+    { id: 4, nombre: 'Sundae Sweet Rainbow', precio: 12, imagen: '../img/item-4.webp' },
+    { id: 5, nombre: 'Sundae Sweet Berries', precio: 13, imagen: '../img/item-5.webp' },
+    { id: 6, nombre: 'Sundae Watermelon Fruit Tropical', precio: 13, imagen: '../img/item-6.webp' },
+    { id: 7, nombre: 'Sundae Sweet SugarPlum', precio: 13, imagen: '../img/item-7.webp' },
+    { id: 8, nombre: 'Sundae Dream Machine', precio: 15, imagen: '../img/item-8.webp' },
+    { id: 9, nombre: 'Bakery Pies Big Top Carnival', precio: 17, imagen: '../img/item-41.webp' },
+    { id: 10, nombre: 'Bakery Pies Valentines Day', precio: 20, imagen: '../img/item-42.webp' },
+    { id: 11, nombre: 'Bakery Pies StarLight ', precio: 20, imagen: '../img/item-43.webp' },
+    { id: 12, nombre: 'Bakery Pies St Lucky', precio: 20, imagen: '../img/item-44.webp' }
     
 ];
 
